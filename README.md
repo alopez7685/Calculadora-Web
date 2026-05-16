@@ -19,4 +19,4 @@ Proyecto desarrollado con HTML, CSS y JavaScript.
 2. Abrir el archivo `index.html` en cualquier navegador.
 
 ## Autor
-Proyecto académico.
+Angel López Villafuerte.
