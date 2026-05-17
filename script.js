@@ -8,6 +8,10 @@ function limpiar(){
     pantalla.value = "";
 }
 
+function borrarUno(){
+    pantalla.value = pantalla.value.slice(0, -1);
+}
+
 function calcular(){
     try{
         pantalla.value = eval(pantalla.value);
