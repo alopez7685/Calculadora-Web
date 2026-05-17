@@ -9,7 +9,7 @@ body{
 }
 
 .calculadora{
-    background: white;
+    background: rgb(133, 197, 108);
     padding: 25px;
     border-radius: 15px;
     box-shadow: 0px 5px 20px rgba(0,0,0,0.3);
@@ -28,7 +28,7 @@ h1{
     font-size: 24px;
     text-align: right;
     padding-right: 10px;
-    border: 2px solid #6fe74d;
+    border: 2px solid #5a5a59;
     border-radius: 8px;
     box-sizing: border-box;
 }
@@ -45,7 +45,7 @@ button{
     border: none;
     border-radius: 8px;
     background: #79c9ff;
-    color: rgb(255, 234, 0);
+    color: rgba(255, 242, 3, 0.89);
     cursor: pointer;
     transition: 0.3s;
 }
